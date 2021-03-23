@@ -1,0 +1,3 @@
+# from toy_progress_bar import napari_experimental_provide_dock_widget
+
+# add your tests here...
